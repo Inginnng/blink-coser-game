@@ -1,0 +1,8 @@
+# Local browser tooling and visual QA artifacts.
+tests/browser.test.cjs
+tests/preview.cjs
+tests/screenshots/
+tests/standalone.html
+*.log
+Thumbs.db
+.DS_Store
